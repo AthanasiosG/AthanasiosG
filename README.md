@@ -7,13 +7,14 @@
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/athanasiosg/github-readme-stats">
-    <img src="https://github-readme-stats-two-sand-84.vercel.app/api?username=athanasiosg&show_icons=true&theme=tokyonight&hide_border=true" alt="Athanasios' GitHub stats" height="195" />
+    <img src="https://github-readme-stats-two-sand-84.vercel.app/api?username=athanasiosg&show_icons=true&theme=tokyonight&hide_border=true" alt="Athanasios' GitHub stats" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=athanasiosg&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
+    <img src="https://streak-stats.demolab.com?user=athanasiosg&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
