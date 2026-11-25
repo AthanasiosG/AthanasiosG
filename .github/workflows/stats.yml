@@ -25,7 +25,7 @@ jobs:
           rm avatar.png
 
       - name: stats (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=AthanasiosG&show_icons=true&card_width=420&hide_border=true&border_radius=32&bg_color=011627&title_color=c792ea&text_color=d6deeb&icon_color=7fdbca&ring_color=c792ea
@@ -34,7 +34,7 @@ jobs:
           fail_on_error: true
 
       - name: top-langs (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=AthanasiosG&layout=compact&langs_count=6&card_width=420&hide_border=true&border_radius=32&bg_color=011627&title_color=c792ea&text_color=d6deeb
@@ -43,7 +43,7 @@ jobs:
           fail_on_error: true
 
       - name: stats (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=AthanasiosG&show_icons=true&card_width=420&hide_border=true&border_radius=32&bg_color=f0f0f0&title_color=994cc3&text_color=403f53&icon_color=0c969b&ring_color=994cc3
@@ -52,7 +52,7 @@ jobs:
           fail_on_error: true
 
       - name: top-langs (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=AthanasiosG&layout=compact&langs_count=6&card_width=420&hide_border=true&border_radius=32&bg_color=f0f0f0&title_color=994cc3&text_color=403f53

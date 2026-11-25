@@ -284,7 +284,7 @@ def workflow(C) -> str:
         for card, opts in cards.items():
             steps.append(f"""
       - name: {card} ({mode})
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: {card}
           options: {opts}
